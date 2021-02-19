@@ -1,0 +1,8 @@
+print("---Welcome to Exercise Mathametic Operator---")
+a = int(input("Please input value1:"))
+b = int(input("Please input value2:"))
+print(a,"+",b,"=",a+b)
+print(a,"-",b,"=",a-b)
+print(a,"x",b,"=",a*b)
+print(a,"/",b,"=",a/b)
+print("---Have Fun !!! Bye---")
